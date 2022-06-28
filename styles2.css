@@ -1,0 +1,145 @@
+#features {
+
+  padding: 7% 15%;
+
+}
+
+
+.feature-box {
+
+  text-align: center;
+  padding: 5%;
+
+
+
+
+}
+
+
+
+
+
+.icon {
+
+  color: #fc8b65;
+
+  margin-bottom: 1rem;
+  
+
+}
+
+
+
+
+.icon:hover {
+
+
+  color: #ff7c41;
+
+
+
+}
+
+hr {
+
+  border-color: #322d2d;
+  border-width: 4px;
+  border-style: dotted none none;
+  height: 0.2px;
+  width: 14%;
+
+
+}
+
+
+
+#testimonials {
+
+  padding: 9% 15%;
+  text-align: center;
+  background-color: #ee7469;
+
+}
+
+
+
+
+
+
+
+
+.testimonials-img {
+
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
+
+
+.carousel-item {
+
+  padding: 7% 15%;
+
+
+}
+
+
+
+
+
+
+
+#pricing {
+
+  padding: 50px;
+  text-align: center;
+}
+
+.pricing-column {
+
+  padding: 3% 2%;
+}
+
+
+
+@media (max-width: 900px  ) and (min-width:100px)  { 
+
+.boton-amarillo {
+  margin-left: 150px !important;
+}
+
+
+.text1 {
+  margin-left: 150px !important;
+  margin-top: 100px;
+}
+}
+
+
+.boton-amarillo {
+  margin-left: 1080px;
+ 
+
+}
+
+
+.text1{
+margin-top: 1000;
+ text-align: center;
+ 
+
+
+}
+
+.text-1{ 
+color: #ee7469;
+
+}
+
+.bottom {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+
